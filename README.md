@@ -149,7 +149,7 @@ Vibe Voyage bridges the gap between travel inspiration and execution by providin
 ### 🔑 Login System
 
 * Secure login with Email/Password
-* Social login simulation (Google/Apple)
+* Social login simulation (Google/Apple).
 * Session persistence
 
 ### 📊 Admin Dashboard
